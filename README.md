@@ -15,7 +15,6 @@ The BeaST Classic uses BeaST Quorum (BQ) software in conjunction with CTL High-A
 | [BA + BQ](documentation/the_beast_classic_raid_ba_bq-1-1.pdf)        | BA + BQ                       |
 | [CTL HA + BQ](documentation/the_beast_classic_raid_ctlha_bq-1-1.pdf) | CTL HA + BQ                   |
 
-
 The **BeaST Grid** family utilise computer nodes instead of drive enclosures.
 
 ![beast_grid_raid_ctlha_as-to-be](media/beast_grid_raid_ctlha_as-to-be.png)
