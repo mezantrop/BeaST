@@ -25,6 +25,7 @@ The **BeaST Grid** family utilise computer nodes instead of drive enclosures.
 ![beast_grid_raid_ctlha_as-to-be](media/beast_grid_raid_ctlha_as-to-be.png)
 
 | The BeaST Grid with RAID arrays                               |
+| --------------------------------------------------------------|
 | [CTL HA + BQ](documentation/the_beast_grid_raid_ctlha_bq.pdf) |
 | BA + BQ                                                       |
 
