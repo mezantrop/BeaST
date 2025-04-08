@@ -13,25 +13,28 @@ The **BeaST Classic** family has dual-controller architecture with RAID Arrays o
 The BeaST Classic uses BeaST Quorum (BQ) software in conjunction with CTL High-Availability (CTL HA) or the BeaST Arbitrator (BA) for the fail-over and fail-back operations.
 
 The BeaST Classic with RAID Arrays
-| ------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [BA + BQ](documentation/the_beast_classic_raid_ba_bq-1-1.pdf) | [CTL HA + BQ](documentation/the_beast_classic_raid_ctlha_bq-1-1.pdf) |
 
-The BeaST Classic with zpools
-| ------------------------------------------------------------- | -------------------------------------------------------------------- |
-| BA + BQ                                                       | CTL HA + BQ                                                          |
+[BA + BQ](documentation/the_beast_classic_raid_ba_bq-1-1.pdf)
+[CTL HA + BQ](documentation/the_beast_classic_raid_ctlha_bq-1-1.pdf)
+
+| The BeaST Classic with zpools |
+| ------------------------------|
+| BA + BQ                       |
+| CTL HA + BQ                   |
 
 The **BeaST Grid** family utilise computer nodes instead of drive enclosures.
 
 ![beast_grid_raid_ctlha_as-to-be](media/beast_grid_raid_ctlha_as-to-be.png)
 *-- The BeaST Grid with RAID arrays and CTL HA + the BeaST Quorum*
 
-The BeaST Grid with RAID arrays
-| ------------------------------------------------------------- | ------- |
-| [CTL HA + BQ](documentation/the_beast_grid_raid_ctlha_bq.pdf) | BA + BQ |
+| The BeaST Grid with RAID arrays                               |
+| [CTL HA + BQ](documentation/the_beast_grid_raid_ctlha_bq.pdf) |
+| BA + BQ                                                       |
 
-The BeaST Grid with zpools
-| ------------------------------------------------------------- | --------|
-| CTL HA + BQ                                                   | BA + BQ |
+| The BeaST Grid with zpools                                    |
+| ------------------------------------------------------------- |
+| CTL HA + BQ                                                   |
+| BA + BQ                                                       |
 
 ## Current documentation
 
