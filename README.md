@@ -10,10 +10,10 @@ The **BeaST Classic** family has dual-controller architecture with RAID Arrays o
 
 The BeaST Classic uses BeaST Quorum (BQ) software in conjunction with CTL High-Availability (CTL HA) or the BeaST Arbitrator (BA) for the fail-over and fail-back operations.
 
-The BeaST Classic with RAID Arrays
-
-[BA + BQ](documentation/the_beast_classic_raid_ba_bq-1-1.pdf)
-[CTL HA + BQ](documentation/the_beast_classic_raid_ctlha_bq-1-1.pdf)
+| The BeaST Classic with RAID Arrays                                   |
+| -------------------------------------------------------------------- |
+| [BA + BQ](documentation/the_beast_classic_raid_ba_bq-1-1.pdf)        |
+| [CTL HA + BQ](documentation/the_beast_classic_raid_ctlha_bq-1-1.pdf) |
 
 | The BeaST Classic with zpools |
 | ------------------------------|
